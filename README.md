@@ -1,16 +1,16 @@
 # Hi there 👋
-##I'm Antonio Victor Basilio :hugs:
+## I'm Antonio Victor Basilio :hugs:
 - electronic engineer switching career to software developer.
 - Live in :brazil:, Rio de Janeiro
 - League of legends, animes, Magic, rock n' roll and 心臓を捧げよ！:gift_heart:
 - Studying more about ReactJS and NodeJS :space_invader:
 
-##Connect with me:<p>
+## Connect with me:<p>
 <a href="https://www.linkedin.com/in/antonio-victor-basilio/" target="_blank">
   <img align="center" alt="antonio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <p>
-  ##My Skills:<p>
+  ## My Skills:<p>
     
   <img align="center" alt="antonio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
   <img align="center" alt="antonio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
