@@ -9,7 +9,14 @@
 <a href="https://www.linkedin.com/in/antonio-victor-basilio/" target="_blank">
   <img align="center" alt="antonio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
- 
+<p>
+  ##My Skills:<p>
+    <a href="#" target="_blank">
+  <img align="center" alt="antonio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
+</a>
+    <a href="#" target="_blank">
+  <img align="center" alt="antonio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
+</a>
 
 
 
