@@ -21,6 +21,8 @@
     <img align="center" alt="antonio-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;">
     <img align="center" alt="antonio-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%;">
      </div>
+     ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniovsb25&show_icons=true&theme=radical)
+
    
 
 
