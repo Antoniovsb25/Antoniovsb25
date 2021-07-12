@@ -1,4 +1,11 @@
 ### Hi there 👋
+#I'm Antonio Victor Basilio :hugs:
+- electronic engineer switching career to software developer.
+- Live in :brazil:, Rio de Janeiro
+- League of legends, animes, Magic, rock n' roll and 心臓を捧げよ！:gift_heart:
+- Studying more about ReactJS and NodeJS :space_invader:	
+##Connect with me:
+
 
 <!--
 **Antoniovsb25/Antoniovsb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
