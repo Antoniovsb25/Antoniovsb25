@@ -7,7 +7,7 @@
 - League of legends, animes, Magic, rock n' roll and 心臓を捧げよ！:gift_heart:
 - Studying more about ReactJS and NodeJS :space_invader:
 
-## Connect with me:<p>
+## Connect with me:
 <a href="https://www.linkedin.com/in/antonio-victor-basilio/" target="_blank">
   <img align="center" alt="antonio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
@@ -25,8 +25,9 @@
      </div>
      
      
-     
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniovsb25&show_icons=true&theme=radical)
+  
+  ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniovsb25&show_icons=true&theme=radical)
+  
 
 
 
