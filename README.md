@@ -1,57 +1,44 @@
-# Hi there 👋
-<img align="center" alt="antonio-py" height="150" width="250" src="https://s2.qwant.com/thumbr/0x0/7/8/8785f959165c4721cc26e0b1954ce86155b3d4f78e930f838fd895e2790b6c/hi-anime-gif-11.gif?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fhi-anime-gif-11.gif&q=0&b=1&p=0&a=1" style="max-width:100%; display: flex; flex-wrap: wrap; margin: 5px;">
+### Olá, pessoal! Meu nome é Antônio Víctor Basilio
+<img align="center" alt="kakashi" height="150" width="250" src="https://s2.qwant.com/thumbr/0x0/7/8/8785f959165c4721cc26e0b1954ce86155b3d4f78e930f838fd895e2790b6c/hi-anime-gif-11.gif?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fhi-anime-gif-11.gif&q=0&b=1&p=0&a=1">
 
-## I'm Antonio Victor Basilio :hugs:
-- electronic engineer switching career to software developer.
-- Live in :brazil: , Rio de Janeiro
-- League of legends, animes, Magic, rock n' roll and 心臓を捧げよ！:gift_heart:
-- Studying more about ReactJS and NodeJS :space_invader:
+##
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/antonio-victor-basilio/" target="_blank">
-  <img align="center" alt="antonio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
+- Estudante de engenheria eletrônica em transição de carreira para desenvolvedor fullstack 💗
+- Rio de Janeiro, Brasil
+- Gamer e otaku 🎮
+- Atualmente, focando em desenvolver minhas habilidades em node.js e react.js 📚
 
-  ## My Skills:
-   <div style="display: flex; flex-wrap: wrap; margin: 20px;"> 
-  <img align="center" alt="antonio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
-  <img align="center" alt="antonio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
-  <img align="center" alt="antonio-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
-  <img align="center" alt="antonio-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;">
-  <img align="center" alt="antonio-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
-    <img align="center" alt="antonio-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-width:100%;">
-    <img align="center" alt="antonio-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;">
-    <img align="center" alt="antonio-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%;">
-     </div>
-     
-     
+##
+
+<div>
+  <a href="https://github.com/Antoniovsb25">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoniovsb25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniovsb25&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
-  ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniovsb25&show_icons=true&theme=radical)
+  <div style="display: inline_block"><br>
+  <img align="center" alt="av-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="av-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="av-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="av-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="av-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="av-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="av-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="av-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="av-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
-
-
-
-
-
-   
-
-
-
-
-
-
-
-<!--
-**Antoniovsb25/Antoniovsb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
+  ##
+  <div>
+    <a href="https://www.youtube.com/channel/UCFNtLj9nj9CF5QTPgoZr43g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/antoniovictor.av/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	  <a href="https://www.twitch.tv/antoniovictor_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:antoniovsb25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/antonio-victor-basilio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+  
+  
+  
+  
+  
