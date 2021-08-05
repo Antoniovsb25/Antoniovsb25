@@ -4,7 +4,7 @@
 ##
 
 - Estudante de engenheria eletrônica em transição de carreira para desenvolvedor fullstack 💗
-- Rio de Janeiro, Brasil
+- Rio de Janeiro, Brasil 🎭
 - Gamer e otaku 🎮
 - Atualmente, focando em desenvolver minhas habilidades em node.js e react.js 📚
 
