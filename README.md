@@ -1,9 +1,9 @@
-### Olá, pessoal! Meu nome é *Antônio Víctor Basilio*
+### Olá, pessoal! Meu nome é *Antônio Víctor Basilio*. よろしくお願いします！
 <img align="center" alt="kakashi" height="150" width="250" src="https://s2.qwant.com/thumbr/0x0/7/8/8785f959165c4721cc26e0b1954ce86155b3d4f78e930f838fd895e2790b6c/hi-anime-gif-11.gif?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fhi-anime-gif-11.gif&q=0&b=1&p=0&a=1">
 
 ##
 
-- Estudante de engenheria eletrônica em transição de carreira para desenvolvedor fullstack 💗
+- Estudante de engenheria eletrônica. Trabalhando para ser desenvolvedor fullstack 💗
 - Rio de Janeiro, Brasil 🎭
 - Gamer e otaku 🎮
 - Atualmente, focando em desenvolver minhas habilidades em node.js e react.js 📚
