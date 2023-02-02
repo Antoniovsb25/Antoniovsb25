@@ -5,6 +5,7 @@
 
 - Working as a front-end Developer 💗
 - Experience working in projects based in React.js
+- Learning react native to get an opportunity with mobile projects
 - Rio de Janeiro, Brazil 🎭
 - Gamer/ otaku 🎮
 
