@@ -5,7 +5,6 @@
 
 - Working as a React Native Mobile Developer 💗
 - Experience working in large-scale international projects
-- Learning next.js
 - Rio de Janeiro, Brazil 🎭
 - Gamer/ otaku 🎮
 
